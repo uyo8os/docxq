@@ -1,6 +1,6 @@
 # monitor-theme-doc
 
-[monitor](https://github.com/monitor-probe/monitor) 的文档风格状态页主题：三栏排版、左侧目录、右侧本页导航，
+[monitor](https://github.com/uyo8os/monitor) 的文档风格状态页主题：三栏排版、左侧目录、右侧本页导航，
 整组节点装进一张大卡片。只读公开接口，不写任何数据。
 
 ![主题预览](preview.png)
@@ -17,7 +17,7 @@
 在 hub 后台的「主题」页填本仓库地址，点「从 GitHub 安装」：
 
 ```text
-https://github.com/bluesmkun/docxq
+https://github.com/uyo8os/docxq
 ```
 
 hub 会取最新正式 release 里的 `theme.tar.gz`。也可以下载这个文件在面板上传，或者把它解开、
